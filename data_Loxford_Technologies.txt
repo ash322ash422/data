@@ -1,0 +1,69 @@
+Loxford Technologies – Company Overview
+Loxford Technologies is a global technology solutions provider specializing in
+artificial intelligence, data analytics, and enterprise automation. Founded in 2012,
+the company has grown rapidly into a mid-sized enterprise serving clients across
+North America, Europe, and Asia.
+
+Loxford Technologies was founded by Daniel Reeves, a former data scientist, and
+Anika Lomax, a software engineer with a background in distributed systems. The
+founders envisioned a company that could bridge the gap between cutting-edge
+AI research and real-world business applications.
+• CEO: Daniel Reeves
+• CTO: Anika Lomax
+
+The company is headquartered in Austin, Texas, USA, with additional offices in:
+• London, UK
+• Bengaluru, India
+• Berlin, Germany
+
+-------------------------------------
+As of 2024, Loxford Technologies reported an estimated annual revenue of $180
+million, with a year-over-year growth rate of approximately 22%. The company
+employs over 850 professionals, including engineers, data scientists, and
+consultants.
+. Loxford Technologies offers a wide range of core services, including:
+• AI & Machine Learning Solutions:  Custom AI models for prediction, classification, and automation.
+• Data Engineering & Analytics: Data pipelines, dashboards, and business intelligence systems.
+• RAG-Based Knowledge Systems: Enterprise-grade Retrieval-Augmented Generation systems for internal
+knowledge management.
+• Cloud & DevOps Services: Scalable infrastructure deployment using AWS, Azure, and GCP.
+• Process Automation: Workflow automation using AI agents and robotic process automation
+(RPA).
+
+--------------------------------------------
+Some of its Latest Key Products are
+• LoxMindX – An enterprise AI assistant platform
+• DataWeaveX – A real-time data integration and analytics tool
+• AutoFlowX AI – Intelligent workflow automation system
+
+----------------
+
+Mission & Vision of Company
+
+Mission: To empower organizations with intelligent systems that enhance decision-making
+and operational efficiency.
+
+Vision: To become a global leader in applied artificial intelligence, making advanced
+technology accessible and practical for businesses of all sizes.
+
+
+Loxford Technologies serves a diverse range of industries, including:
+• Healthcare
+• Finance
+• Retail & E-commerce
+• Manufacturing
+• Education
+---------------------------------------
+
+Recent Developments:
+
+In 2026, the company launched its first Agentic AI platform, enabling autonomous
+decision-making systems for enterprise clients. It has also partnered with several
+Fortune 500 companies to deploy large-scale AI solutions. They have partnered with 
+IBM and CISCO
+---------------------------------------
+
+Company Culture: 
+Loxford promotes a culture of innovation, continuous learning, and remote-first
+collaboration. Employees are encouraged to experiment with new technologies
+and contribute to open-source projects.
